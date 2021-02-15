@@ -1,7 +1,7 @@
 # Steps to upload a local repo to a remote repo:
 
 1. Navigate to desired directory in command line interface.
-2. Do a _git init <project-name>_
+2. Do a _git init <repo-name>_
 3. Change directory (cd) into the newly created local repo.
 4. Create new .gitignore and README.md files using touch command.
 5. Then do a _git remote add origin https://github.com/pr4sh4nth/<repo-name>.git_
